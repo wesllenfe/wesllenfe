@@ -30,8 +30,8 @@ Atualmente, estou focado em:
 
 Você pode me encontrar nas seguintes plataformas:
 
-- [LinkedIn]([link_para_o_seu_linkedin](https://www.linkedin.com/in/wesllen-felipe-langaro-raiser-da-cruz-31b9ab210/))
-- [Whatsapp](49992014663)
+- [LinkedIn](https://www.linkedin.com/in/wesllen-felipe-langaro-raiser-da-cruz-31b9ab210/)
+- Whatsapp: +5549992014663
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser me contratar, discutir sobre programação, colaborar em projetos ou apenas trocar ideias!
 
