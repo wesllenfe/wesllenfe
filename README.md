@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wesllen Felipe</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 - 🌱 I’m currently learning **C#, .NET, ANGULAR, REACTJS, NODEJS..**
 
